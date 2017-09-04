@@ -921,6 +921,9 @@
     <Compile Include="NHSpecificTest\NH3874\Two.cs" />
     <Compile Include="NHSpecificTest\NH3909\Entity.cs" />
     <Compile Include="NHSpecificTest\NH3909\FixtureByCode.cs" />
+    <Compile Include="NHSpecificTest\NH4077\PostInsertFixture.cs" />
+    <Compile Include="NHSpecificTest\NH4077\PostUpdateFixture.cs" />
+    <Compile Include="NHSpecificTest\NH4077\Model.cs" />
     <Compile Include="NHSpecificTest\NH646\Domain.cs" />
     <Compile Include="NHSpecificTest\NH646\Fixture.cs" />
     <Compile Include="NHSpecificTest\NH3234\Fixture.cs" />
